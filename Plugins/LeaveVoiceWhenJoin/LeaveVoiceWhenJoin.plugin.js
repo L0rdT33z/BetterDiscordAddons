@@ -35,7 +35,7 @@ const blacklist = ["putUserIDHere"];
 const config = {
 	"info": {
 		"name": "LeaveVoiceWhenJoin",
-		"version": "1.2.0",
+		"version": "1.0.0",
 		"description": "Leave voice channel when user join.",
 		"authors": [{
 			"name": "L0rdT33z",
